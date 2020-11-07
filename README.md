@@ -2,9 +2,7 @@
 
 ## Description
 
-> This program connects to an existing MongoDB database to obtain the latest temperature reading from a temperature sensor (to set up the sensor and upload the readings to MongoDB, see https://github.com/cvizer/temperature_sensor_program).
-
-To see the current temperature, all you need to do is send a text message to your Twilio phone number. You'll receive a response with the latest temperature reading.
+> This program connects to an existing MongoDB database to obtain the latest temperature reading from a temperature sensor (to set up the sensor and upload the readings to MongoDB, see https://github.com/cvizer/temperature_sensor_program).<br><br>To see the current temperature, all you need to do is send a text message to your Twilio phone number. You'll receive a response with the latest temperature reading.
 
 ---
 
