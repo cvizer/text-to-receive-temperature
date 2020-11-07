@@ -2,7 +2,9 @@
 
 ## Description
 
-> Send a text message to your Twilio phone number to receive a response with the current temperature from a sensor reading. To see the program that records the temperature readings and uploads them to a MongoDB database, [click here](https://github.com/cvizer/temperature_sensor_program).
+> This program connects to an existing MongoDB database to obtain the latest temperature reading from a temperature sensor (to set up the sensor and upload the readings to MongoDB, see https://github.com/cvizer/temperature_sensor_program).
+
+To see the current temperature, all you need to do is send a text message to your Twilio phone number. You'll receive a response with the latest temperature reading.
 
 ---
 
